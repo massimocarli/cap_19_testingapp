@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestingApp</string>
+    <string name="sum_result">%1$d + %2$d = %3$d</string>
+    <string name="inputAString">Value of A</string>
+    <string name="inputBString">Value of B</string>
+    <string name="inputAHint">Insert value for A</string>
+    <string name="inputBHint">Insert value for B</string>
+    <string name="empty_result_value">--</string>
+    <string name="calculate_button_label">Calculate</string>
+    <string name="validation_error">The value of %1$s is not an Int</string>
+</resources>
